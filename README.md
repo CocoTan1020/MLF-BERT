@@ -88,5 +88,3 @@ python predict.py
 | -------- | -------- | -------- |
 | BERT |91.10 | 90.97 |
 | MLF-BERT | **94.24** | **93.96** |
-
-*If you have any questions, please open an issue or send an email to tankeren1020@stu.ecnu.edu.cn*
