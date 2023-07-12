@@ -82,7 +82,7 @@ python run.py
 ```
 python predict.py
 ```
-## Well-trained Model
+## Well-Trained Model
 训练好的MLF-BERT模型可以在该链接中下载获取  [[MLF-BERT]](https://pan.baidu.com/s/1uHKWq_7FKEJJsmmocg3bcQ?pwd=h4sp)
 | Model     | Test_Acc/%  | Test_F1/%   |
 | -------- | -------- | -------- |
