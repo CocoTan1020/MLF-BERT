@@ -16,7 +16,7 @@ PAD, CLS, SEP = '[PAD]', '[CLS]', '[SEP]'  # padding符号, bert中综合信息�
 class Config(object):
     """配置参数"""
     def __init__(self, dataset):
-        self.save_path = './best_models_ckpt/mml-bert/model_11e.ckpt'
+        self.save_path = './best_models_ckpt/mlf-bert/best_model.ckpt'
         self.class_list = [x.strip() for x in open(dataset + '/data/class.txt', encoding='UTF-8').readlines()]
         self.device = torch.device('cpu')
         self.num_classes = len(self.class_list)
