@@ -2,7 +2,8 @@
 # 基于多层级语言特征融合的中文文本可读性分级模型
 
 这是该论文的代码仓库: 《基于多层级语言特征融合的中文文本可读性分级模型》 (中文信息学报-待刊出)。
-论文的PrePrint版本可以在该链接中进行查看。[]()
+
+论文的PrePrint版本可以在该链接中进行查看。[[PrePrint]](https://drive.google.com/file/d/1i7iNjABG0I_w0gfKk-0v6uDkGGd_mKxX/view?usp=sharing)
 
 ## Installation
 运行以下代码以安装所需的库:
