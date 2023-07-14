@@ -1,9 +1,9 @@
 # MLF-BERT 
 # 基于多层级语言特征融合的中文文本可读性分级模型
 
-这是该论文的代码仓库: 《基于多层级语言特征融合的中文文本可读性分级模型》 (中文信息学报-待刊出)。
+这是该论文的代码仓库: **《基于多层级语言特征融合的中文文本可读性分级模型》** (中文信息学报-待刊出)。
 
-论文的Preprint版本可以在该链接中进行查看。[[Preprint]](https://drive.google.com/file/d/1i7iNjABG0I_w0gfKk-0v6uDkGGd_mKxX/view?usp=sharing)
+**论文的Preprint版本可以在该链接中进行查看。** [[Preprint]](https://drive.google.com/file/d/1i7iNjABG0I_w0gfKk-0v6uDkGGd_mKxX/view?usp=sharing)
 
 如果您发现这项工作对您的研究有用，请引用我们的论文：
 > @article{谭可人2023基于多层级语言特征融合的中文文本可读性分级模型,  
