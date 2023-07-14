@@ -5,6 +5,17 @@
 
 论文的Preprint版本可以在该链接中进行查看。[[Preprint]](https://drive.google.com/file/d/1i7iNjABG0I_w0gfKk-0v6uDkGGd_mKxX/view?usp=sharing)
 
+如果您发现这项工作对您的研究有用，请引用我们的论文：
+> @article{谭可人2023基于多层级语言特征融合的中文文本可读性分级模型,
+>   title={基于多层级语言特征融合的中文文本可读性分级模型},
+>   author={谭可人 and 兰韵诗 and 张杨 and 丁安琪},
+>   journal={中文信息学报},
+>   volume={-},
+>   number={-},
+>   pages={-},
+>   year={2023}
+> }
+
 ## Installation
 运行以下代码以安装所需的库:
 ```
