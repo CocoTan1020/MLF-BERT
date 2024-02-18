@@ -1,7 +1,7 @@
 # MLF-BERT 
 # 基于多层级语言特征融合的中文文本可读性分级模型
 
-这是该论文的代码仓库: **《基于多层级语言特征融合的中文文本可读性分级模型》** (中文信息学报2023-待刊出)。
+这是该论文的代码仓库: **《基于多层级语言特征融合的中文文本可读性分级模型》** (中文信息学报2024-待刊出)。
 
 **论文的Preprint版本可以在该链接中进行查看。** [[基于多层级语言特征融合的中文文本可读性分级模型-Preprint]](https://drive.google.com/file/d/1i7iNjABG0I_w0gfKk-0v6uDkGGd_mKxX/view?usp=sharing)
 
@@ -95,9 +95,15 @@ python run.py
 ```
 python predict.py
 ```
+## Add LLM Evaluation Method
+```
+python llm_evaluation/MLF-BERT_llm_evaluate.py
+```
 ## Well-Trained Model
 训练好的MLF-BERT模型可以在该链接中下载获取  [[MLF-BERT]](https://pan.baidu.com/s/1uHKWq_7FKEJJsmmocg3bcQ?pwd=h4sp)
 | Model     | Test_Acc/%  | Test_F1/%   |
 | -------- | -------- | -------- |
 | BERT |91.10 | 90.97 |
 | MLF-BERT | **94.24** | **93.96** |
+
+
