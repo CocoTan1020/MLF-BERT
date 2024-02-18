@@ -95,7 +95,7 @@ python run.py
 ```
 python predict.py
 ```
-## Add LLM Evaluation Method
+## LLM Evaluation Method
 ```
 python llm_evaluation/MLF-BERT_llm_evaluate.py
 ```
